@@ -1,4 +1,4 @@
-# XR Content Streaming over Wi-Fi: Traffic Characterization and Experimental Evaluation
+# XR Content Streaming Script
 
 This repository contains the Python script for retrieving the dataset files from Google Drive. Includes the parsing, analysis, and visualization of the data records.
 
