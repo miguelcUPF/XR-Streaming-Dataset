@@ -9,7 +9,7 @@ This repository contains the datasets collected in the study, encompassing netwo
 
 ## Datasets
 
-| Dataset Name | Characteristics                                                   |
+| Dataset      | Name | Characteristics                                                   |
 |--------------|------------------------------------------------------------------|
 | D1           | Baseline | AH \| C: H.264, F: 90, R: 3664x1920p, B: 50 \| A: 0 \| Laptop          |
 | D2           | Frame Rate | AH \| C: H.264, F: 60 & 30, R: 3664x1920p, B: 50 \| A: 0 \| Laptop    |
